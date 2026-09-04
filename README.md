@@ -1,217 +1,149 @@
-# Hi, I'm Keneth Kiplagat
+<h1 align="center">Keneth Kiplagat</h1>
 
-### HealthTech & AI Operations | Digital Transformation | Product & Technical Operations
+<p align="center">
+  <b>HealthTech &amp; AI Operations</b> · Digital Transformation · Product &amp; Technical Operations
+</p>
 
-I build and support digital products that solve real-world problems across **healthcare, data, AI, and digital transformation**.
+<p align="center">
+  Building AI-powered health technology that frontline workers in Africa can actually use.
+</p>
 
-My work sits at the intersection of **technology, people, data, and operations** — turning complex workflows into practical, scalable digital solutions.
+<p align="center">
+  <a href="https://kenkiplagat.co.ke/"><img src="https://img.shields.io/badge/Portfolio-14110F?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/kkiplagat/"><img src="https://img.shields.io/badge/LinkedIn-14110F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/Kenbiz25Keneth"><img src="https://img.shields.io/badge/X-14110F?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://github.com/kenbiz25"><img src="https://img.shields.io/badge/GitHub-14110F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-Currently focused on building and supporting **AI-powered HealthTech and digital transformation solutions across Africa**.
-
----
-
-## What I Work On
-
-| Area                               | Focus                                                                            |
-| ---------------------------------- | -------------------------------------------------------------------------------- |
-| **AI & Generative AI**             | AI applications, LLMs, RAG systems and AI-powered workflows                      |
-| **Digital Health & HealthTech**    | Health information systems, clinical workflows and digital health implementation |
-| **Data & Business Intelligence**   | Analytics, dashboards, reporting and decision-support systems                    |
-| **Product & Technical Operations** | Product support, release management, troubleshooting and operational delivery    |
-| **Digital Transformation**         | Technology adoption, process improvement and digital workflows                   |
-| **Web Applications**               | Full-stack applications and digital platforms                                    |
-| **Mobile & Messaging**             | WhatsApp-based and mobile solutions for frontline users                          |
-| **Cloud & Infrastructure**         | Application hosting, deployment and cloud infrastructure                         |
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Nairobi,%20Kenya-4B4F52?style=flat-square" alt="Nairobi, Kenya">
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-1E3A34?style=flat-square" alt="Open to collaboration">
+</p>
 
 ---
 
-## Featured Projects
+I work where **technology, people, data and operations** meet — turning complex clinical and
+programme workflows into digital solutions that get adopted, not just shipped.
 
-### ComEMR Support
+> The most useful technology isn't the most complex technology.
+> It's technology people can **adopt, use and scale**.
 
-**AI-powered WhatsApp support assistant for clinicians and Community Health Workers in Sierra Leone.**
-
-A Retrieval-Augmented Generation (RAG) solution designed to help healthcare workers access relevant information through WhatsApp.
-
-| Component       | Technology                     |
-| --------------- | ------------------------------ |
-| Language        | Python                         |
-| Backend         | FastAPI                        |
-| AI Architecture | Retrieval-Augmented Generation |
-| Vector Search   | FAISS                          |
-| Embeddings      | Sentence Transformers          |
-| Infrastructure  | AWS                            |
-
-**Repository:**
-https://github.com/kenbiz25/ComEMRSupport
+So my focus isn't only on building — it's on understanding the **people, processes, data and
+operational environments** the technology has to survive in.
 
 ---
 
-### Data Insights Copilot
+## Featured work
 
-An AI-powered analytics tool that allows users to ask natural-language questions about healthcare data and receive insights, statistical summaries and visualizations.
+### ComEMR Support · AI support assistant on WhatsApp
+Helps clinicians and Community Health Workers in **Sierra Leone** get answers from clinical and
+system documentation over WhatsApp — a RAG pipeline behind an interface they already use daily.
 
-| Component     | Technology         |
-| ------------- | ------------------ |
-| Language      | Python             |
-| AI            | Generative AI      |
-| Analytics     | Data Analytics     |
-| Domain        | Healthcare Data    |
-| Visualization | Data Visualization |
+`Python` · `FastAPI` · `RAG` · `FAISS` · `Sentence Transformers` · `AWS`
 
-**Repository:**
-https://github.com/kenbiz25/data-insights-copilot
+→ [github.com/kenbiz25/ComEMRSupport](https://github.com/kenbiz25/ComEMRSupport)
 
----
+### Data Insights Copilot · Ask your health data a question
+Natural-language analytics over healthcare data: questions in, statistical summaries and
+visualisations out — for teams who need answers without waiting on an analyst.
 
-### Digital Health & Health Information Systems
+`Python` · `Generative AI` · `Data Analytics` · `Visualization`
 
-I work on digital health platforms, health information systems and technical support workflows designed to improve implementation, adoption and operational performance.
+→ [github.com/kenbiz25/data-insights-copilot](https://github.com/kenbiz25/data-insights-copilot)
 
-Key areas include:
-
-* Health information systems support
-* Clinical decision support
-* Community health platforms
-* Digital health implementation
-* Technical operations
-* User support and troubleshooting
-* Product and release management
-* Digital adoption and operational improvement
+### Digital health &amp; health information systems
+Platform support and technical operations for health information systems — implementation,
+adoption and operational performance. Clinical decision support, community health platforms,
+release management, and the unglamorous troubleshooting that keeps deployments alive.
 
 ---
 
-## Technology Stack
+## What I work on
 
-### AI & Data
-
-| Technology            | Area                                 |
-| --------------------- | ------------------------------------ |
-| Python                | AI, automation and data applications |
-| RAG                   | AI knowledge retrieval               |
-| LLMs                  | Generative AI applications           |
-| FAISS                 | Vector search                        |
-| Sentence Transformers | Embeddings                           |
-| Power BI              | Business Intelligence                |
-| Looker Studio         | Data visualization                   |
-| QlikView              | Business Intelligence                |
-| Tableau               | Data visualization                   |
-| Excel                 | Data analysis and reporting          |
-
-### Development
-
-| Technology   | Area                             |
-| ------------ | -------------------------------- |
-| JavaScript   | Web development                  |
-| TypeScript   | Application development          |
-| React        | Frontend development             |
-| Tailwind CSS | UI development                   |
-| Firebase     | Backend and application services |
-| MySQL        | Relational databases             |
-| SQLite       | Lightweight databases            |
-
-### Backend & Infrastructure
-
-| Technology | Area                       |
-| ---------- | -------------------------- |
-| FastAPI    | Python backend development |
-| AWS EC2    | Cloud infrastructure       |
-| Apache     | Web server                 |
-| REST APIs  | Application integration    |
-| Firebase   | Backend services           |
-| Vercel     | Application deployment     |
-| Netlify    | Application deployment     |
-
-### Product & Technical Operations
-
-| Capability               | Focus                                          |
-| ------------------------ | ---------------------------------------------- |
-| Product Support          | User and application support                   |
-| Release Management       | Deployment and release coordination            |
-| IT Service Management    | Service delivery and operational processes     |
-| Mobile Device Management | Device administration and lifecycle management |
-| Technical Operations     | Application and technology operations          |
-| Process Optimization     | Workflow improvement                           |
-| User Support             | Troubleshooting and issue resolution           |
+|  | Area | Focus |
+| :-: | :-- | :-- |
+| ⬤ | **AI &amp; Generative AI** | AI applications, LLMs, RAG systems, AI-powered workflows |
+| ⬤ | **Digital Health** | Health information systems, clinical workflows, implementation |
+| ⬤ | **Data &amp; BI** | Analytics, dashboards, reporting, decision support |
+| ⬤ | **Product &amp; Tech Ops** | Product support, release management, operational delivery |
+| ⬤ | **Digital Transformation** | Technology adoption, process improvement, digital workflows |
+| ⬤ | **Web &amp; Mobile** | Full-stack applications, WhatsApp-based frontline tools |
+| ⬤ | **Cloud &amp; Infrastructure** | Hosting, deployment, cloud infrastructure |
 
 ---
 
-## Selected Work
+## Toolkit
 
-| Project                    | Area                  | Technology            |
-| -------------------------- | --------------------- | --------------------- |
-| **ComEMR Support**         | AI + Digital Health   | Python, RAG, FastAPI  |
-| **Data Insights Copilot**  | Healthcare AI         | Python, AI, Analytics |
-| **MDTInsights**            | Business Intelligence | Power BI              |
-| **KDDA**                   | Web Application       | JavaScript            |
-| **Manifest Dublin**        | Web Application       | TypeScript            |
-| **PropertyHub**            | PropTech              | TypeScript            |
-| **Fyx Kenya / RepairShop** | Digital Platform      | TypeScript            |
+**AI &amp; Data**
 
----
+![Python](https://img.shields.io/badge/Python-1E3A34?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1E3A34?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-1E3A34?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-1E3A34?style=flat-square)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-1E3A34?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-2F4F45?style=flat-square)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-2F4F45?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-2F4F45?style=flat-square)
+![QlikView](https://img.shields.io/badge/QlikView-2F4F45?style=flat-square)
 
-## The Problems I Care About
+**Build**
 
-I'm particularly interested in using technology to solve problems around:
+![FastAPI](https://img.shields.io/badge/FastAPI-14110F?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-14110F?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-14110F?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-14110F?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-14110F?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-14110F?style=flat-square&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-14110F?style=flat-square&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-14110F?style=flat-square)
 
-**Healthcare Access → Digital Health → Workforce Enablement → Data → AI → Government Systems → Digital Transformation**
+**Ship &amp; run**
 
-I believe the most useful technology isn't necessarily the most complex technology.
-
-It is technology that people can actually **adopt, use and scale**.
-
-My focus is therefore not only on building technology, but also on understanding the **people, processes, data and operational environments** in which that technology has to work.
-
----
-
-## Currently Learning
-
-| Area                               | Focus                                          |
-| ---------------------------------- | ---------------------------------------------- |
-| **Python**                         | Advanced Python and application development    |
-| **AI Engineering**                 | Building production-ready AI applications      |
-| **Retrieval-Augmented Generation** | Knowledge retrieval and AI systems             |
-| **AI Agents**                      | Agentic workflows and automation               |
-| **Machine Learning**               | ML fundamentals and applications               |
-| **Data Engineering**               | Data pipelines and infrastructure              |
-| **Cloud Architecture**             | Scalable cloud-based systems                   |
-| **AI Operations**                  | Deploying, supporting and operating AI systems |
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-9A7B4F?style=flat-square&logo=amazonaws&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-9A7B4F?style=flat-square&logo=apache&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-9A7B4F?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-9A7B4F?style=flat-square&logo=netlify&logoColor=white)
+![Release Management](https://img.shields.io/badge/Release_Management-9A7B4F?style=flat-square)
+![ITSM](https://img.shields.io/badge/ITSM-9A7B4F?style=flat-square)
+![MDM](https://img.shields.io/badge/Mobile_Device_Management-9A7B4F?style=flat-square)
 
 ---
 
-## Professional Interests
+## Selected projects
 
-I'm interested in collaborating on projects involving:
-
-| Area                           | Interests                                                        |
-| ------------------------------ | ---------------------------------------------------------------- |
-| **AI**                         | AI applications, automation and intelligent systems              |
-| **HealthTech**                 | Digital health and healthcare technology                         |
-| **Digital Transformation**     | Technology adoption and organizational transformation            |
-| **Data**                       | Analytics, BI and data-driven decision making                    |
-| **Product**                    | Product development and technical operations                     |
-| **Open Source**                | Practical technology and community-driven solutions              |
-| **Technology for Development** | Digital solutions for emerging markets and public-sector systems |
+| Project | Area | Stack |
+| :-- | :-- | :-- |
+| **ComEMR Support** | AI + Digital Health | Python, RAG, FastAPI |
+| **Data Insights Copilot** | Healthcare AI | Python, AI, Analytics |
+| **MDTInsights** | Business Intelligence | Power BI |
+| **KDDA** | Web Application | JavaScript |
+| **Manifest Dublin** | Web Application | TypeScript |
+| **PropertyHub** | PropTech | TypeScript |
+| **Fyx Kenya / RepairShop** | Digital Platform | TypeScript |
 
 ---
 
-## Connect With Me
+## Currently learning
 
-I'm based in **Nairobi, Kenya** and interested in opportunities and collaborations across **Africa and globally**.
+`AI Engineering` · `Production RAG` · `AI Agents` · `Machine Learning` · `Data Engineering` · `Cloud Architecture` · `AI Operations`
 
-| Platform        | Link                                   |
-| --------------- | -------------------------------------- |
-| **LinkedIn**    | https://www.linkedin.com/in/kkiplagat/ |
-| **X / Twitter** | https://twitter.com/Kenbiz25Keneth     |
-| **Portfolio**   | https://kenkiplagat.co.ke/             |
-| **GitHub**      | https://github.com/kenbiz25            |
+## Open to collaborating on
+
+`AI applications` · `HealthTech` · `Digital transformation` · `Data &amp; BI` · `Product &amp; tech ops` · `Open source` · `Technology for development`
 
 ---
 
-## GitHub Focus
+<p align="center">
+  <b>Healthcare access → Digital health → Workforce enablement → Data → AI → Government systems</b>
+</p>
 
-I'm using GitHub to document and build projects around:
+<p align="center">
+  <i>Building practical technology that solves real problems.</i>
+</p>
 
-**AI Engineering · HealthTech · Data · Digital Transformation · Full-Stack Development · Automation · Cloud · Technical Operations**
-
-> Building practical technology that solves real problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/kkiplagat/">LinkedIn</a> ·
+  <a href="https://twitter.com/Kenbiz25Keneth">X</a> ·
+  <a href="https://kenkiplagat.co.ke/">Portfolio</a> ·
+  <a href="https://github.com/kenbiz25">GitHub</a>
+</p>
