@@ -1,8 +1,4 @@
-<h1 align="center">Keneth Kiplagat</h1>
-
-<p align="center">
-  <b>HealthTech &amp; AI Operations</b> · Digital Transformation · Product &amp; Technical Operations
-</p>
+<h1 align="center">HealthTech &amp; AI Operations</b> · Digital Transformation · Product &amp; Technical Operations</h1>
 
 <p align="center">
   Building AI-powered health technology that frontline workers in Africa can actually use.
