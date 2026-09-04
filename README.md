@@ -1,12 +1,13 @@
 <h1 align="center">HealthTech &amp; AI Operations</b> · Digital Transformation · Product &amp; Technical Operations</h1>
 
 <p align="center">
-  Building AI-powered Solutions that Businesses and workers in Africa can use and Scale.
+  Building AI-powered solutions that businesses and frontline workers in Africa can use and scale. Starting with Healthcare.
 </p>
 
 <p align="center">
   <a href="https://kenkiplagat.co.ke/"><img src="https://img.shields.io/badge/Portfolio-14110F?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/kkiplagat/"><img src="https://img.shields.io/badge/LinkedIn-14110F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wa.me/254705091683"><img src="https://img.shields.io/badge/WhatsApp-14110F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://twitter.com/Kenbiz25Keneth"><img src="https://img.shields.io/badge/X-14110F?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://github.com/kenbiz25"><img src="https://img.shields.io/badge/GitHub-14110F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
@@ -18,39 +19,41 @@
 
 ---
 
-I work where **technology, people, data and operations** meet — turning complex clinical and
-programme workflows into digital solutions that get adopted, not just shipped.
+I work where technology, people, data and operations meet, turning complex clinical and programme
+workflows into digital solutions that get adopted, not just shipped.
 
 > The most useful technology isn't the most complex technology.
 > It's technology people can **adopt, use and scale**.
-
-So my focus isn't only on building — it's on understanding the **people, processes, data and
-operational environments** the technology has to survive in.
 
 ---
 
 ## Featured work
 
 ### ComEMR Support · AI support assistant on WhatsApp
-Helps clinicians and Community Health Workers in **Sierra Leone** get answers from clinical and
-system documentation over WhatsApp — a RAG pipeline behind an interface they already use daily.
+Helps clinicians and Community Health Workers get answers from clinical and system documentation
+over WhatsApp, a RAG pipeline behind an interface they already use daily.
 
 `Python` · `FastAPI` · `RAG` · `FAISS` · `Sentence Transformers` · `AWS`
 
-→ [github.com/kenbiz25/ComEMRSupport](https://github.com/kenbiz25/ComEMRSupport)
+[Repository](https://github.com/kenbiz25/ComEMRSupport) · [Try the Bangladesh line on WhatsApp](https://wa.me/8801962737107)
 
 ### Data Insights Copilot · Ask your health data a question
 Natural-language analytics over healthcare data: questions in, statistical summaries and
-visualisations out — for teams who need answers without waiting on an analyst.
+visualisations out, for teams who need answers without waiting on an analyst.
 
 `Python` · `Generative AI` · `Data Analytics` · `Visualization`
 
-→ [github.com/kenbiz25/data-insights-copilot](https://github.com/kenbiz25/data-insights-copilot)
+[Repository](https://github.com/kenbiz25/data-insights-copilot)
 
-### Digital health &amp; health information systems
-Platform support and technical operations for health information systems — implementation,
-adoption and operational performance. Clinical decision support, community health platforms,
-release management, and the unglamorous troubleshooting that keeps deployments alive.
+### UHIS Support · Support desk for a national health information system
+Technical support and knowledge platform for health information system users.
+
+[Repository](https://github.com/kenbiz25/UHIS_Support) · [Live](https://support.medtroniclabs.org/)
+
+### MLABS Rewards · Recognition and awards platform
+Nomination, review and awards workflow built for an internal recognition programme.
+
+[Repository](https://github.com/kenbiz25/MLABS_rewards) · [Live](https://awards.medtroniclabs.org/)
 
 ---
 
@@ -107,21 +110,19 @@ release management, and the unglamorous troubleshooting that keeps deployments a
 
 ## Selected projects
 
-| Project | Area | Stack |
-| :-- | :-- | :-- |
-| **ComEMR Support** | AI + Digital Health | Python, RAG, FastAPI |
-| **Data Insights Copilot** | Healthcare AI | Python, AI, Analytics |
-| **MDTInsights** | Business Intelligence | Power BI |
-| **KDDA** | Web Application | JavaScript |
-| **Manifest Dublin** | Web Application | TypeScript |
-| **PropertyHub** | PropTech | TypeScript |
-| **Fyx Kenya / RepairShop** | Digital Platform | TypeScript |
+| Project | Area | Stack | Link |
+| :-- | :-- | :-- | :-- |
+| **ComEMR Support** | AI + Digital Health | Python, RAG, FastAPI | [Bangladesh line on WhatsApp](https://wa.me/8801962737107) |
+| **Data Insights Copilot** | Healthcare AI | Python, AI, Analytics | [Repository](https://github.com/kenbiz25/data-insights-copilot) |
+| **UHIS Support** | Digital Health | Web Application | [support.medtroniclabs.org](https://support.medtroniclabs.org/) |
+| **MLABS Rewards** | Web Application | TypeScript | [awards.medtroniclabs.org](https://awards.medtroniclabs.org/) |
+| **MDTInsights** | Business Intelligence | Power BI | [mdtinsights.org](https://mdtinsights.org) |
+| **Fyx Kenya / RepairShop** | Digital Platform | TypeScript | [repairshop.co.ke](https://repairshop.co.ke/) |
+| **KDDA** | Web Application | JavaScript | |
+| **Manifest Dublin** | Web Application | TypeScript | |
+| **PropertyHub** | PropTech | TypeScript | |
 
 ---
-
-## Currently learning
-
-`AI Engineering` · `Production RAG` · `AI Agents` · `Machine Learning` · `Data Engineering` · `Cloud Architecture` · `AI Operations`
 
 ## Open to collaborating on
 
@@ -139,6 +140,7 @@ release management, and the unglamorous troubleshooting that keeps deployments a
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kkiplagat/">LinkedIn</a> ·
+  <a href="https://wa.me/254705091683">WhatsApp</a> ·
   <a href="https://twitter.com/Kenbiz25Keneth">X</a> ·
   <a href="https://kenkiplagat.co.ke/">Portfolio</a> ·
   <a href="https://github.com/kenbiz25">GitHub</a>
