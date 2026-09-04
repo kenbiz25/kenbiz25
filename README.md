@@ -1,7 +1,7 @@
 <h1 align="center">HealthTech &amp; AI Operations</b> · Digital Transformation · Product &amp; Technical Operations</h1>
 
 <p align="center">
-  Building AI-powered health technology that frontline workers in Africa can actually use.
+  Building AI-powered Solutions that Businesses and workers in Africa can use and Scale.
 </p>
 
 <p align="center">
